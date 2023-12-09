@@ -2,7 +2,7 @@
 
 ### An implementation of the OAuth framework in Node.js
 
-Run `node server.js` to start the http server. 
+Clone the repo and run `node server.js` from the root directory to start the http server. 
 
 A node server is a TCP server
 ```
