@@ -1,2 +1,3 @@
-# node_auth
-# node_auth
+# Node OAuth
+
+### An implementation of the OAuth framework in Node.js
